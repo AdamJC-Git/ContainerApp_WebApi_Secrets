@@ -11,7 +11,7 @@ namespace ContainerApp_WebApi_Secrets.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Test Get Succeeded 1 - v1";
+            return "Test Get Succeeded 1 - v2";
         }
         [HttpGet("test")]
         public string TestGet()
